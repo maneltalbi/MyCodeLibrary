@@ -2,7 +2,7 @@
 
 namespace MyCodeLibrary
 {
-    public class CScape
+    public class Scrape
     {
        
         public string ScrapeWebpage(string url)
